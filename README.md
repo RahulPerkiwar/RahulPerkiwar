@@ -11,11 +11,12 @@
 ## 👨‍💻 About Me
 
 - 💼 Senior Software Test Engineer with **5+ Years of Experience**
-- 🏦 Experience in Banking & Financial Domain
-- 🚀 Passionate about Automation Framework Development
-- 🧪 Specialized in API Automation & UI Automation
-- 💻 Currently working with Playwright, Selenium, Java and TypeScript
-- 🎯 Building scalable, reusable and enterprise-level automation frameworks
+- 🏦 Experienced in **Banking & Financial Services Domain**
+- 🤖 Specialized in **UI & API Test Automation**
+- 🎯 Strong experience in building **Playwright, Selenium, and Rest Assured Automation Frameworks**
+- 🧪 Skilled in Functional, Regression, Smoke, Sanity, API, and Database Testing
+- ⚡ Passionate about writing clean, scalable, and maintainable automation code
+- 🌱 Currently exploring modern AI-assisted development tools such as **GitHub Copilot**, **ChatGPT**, **Claude**, and **MCP**
 
 ---
 
