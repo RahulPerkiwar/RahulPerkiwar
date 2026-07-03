@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./github-banner.png" alt="Rahul Perkiwar Banner" width="100%">
+</p>
+
 # Hi 👋, I'm Rahul Perkiwar
 
 ### Senior Software Test Engineer | Automation Test Engineer
