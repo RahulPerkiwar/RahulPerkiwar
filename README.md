@@ -1,9 +1,118 @@
-<h1 align="center">Hi 👋, I'm Rahul Perkiwar</h1>
-<h3 align="center">I am Wroking As a Sr.QA</h3>
+# Hi 👋, I'm Rahul Perkiwar
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+### Senior Software Test Engineer | Automation Test Engineer
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+---
+
+## 👨‍💻 About Me
+
+- 💼 Senior Software Test Engineer with **5+ Years of Experience**
+- 🏦 Experience in Banking & Financial Domain
+- 🚀 Passionate about Automation Framework Development
+- 🧪 Specialized in API Automation & UI Automation
+- 💻 Currently working with Playwright, Selenium, Java and TypeScript
+- 🎯 Building scalable, reusable and enterprise-level automation frameworks
+
+---
+
+## 🚀 Tech Stack
+
+### Programming Languages
+
+- Java
+- TypeScript
+
+### Automation
+
+- Playwright
+- Selenium WebDriver
+- REST Assured
+- TestNG
+- Cucumber (BDD)
+
+### API Testing
+
+- Playwright API
+- REST Assured
+- Postman
+
+### CI/CD & Version Control
+
+- Git
+- GitHub
+- GitHub Actions
+- Jenkins
+- Azure DevOps
+- Maven
+
+### Database
+
+- SQL
+
+### IDE & Tools
+
+- Visual Studio Code
+- Eclipse
+- IntelliJ IDEA
+
+---
+
+## 🤖 AI & Modern Developer Tools
+
+- ChatGPT
+- GitHub Copilot
+- Claude
+- MCP (Model Context Protocol)
+
+---
+
+## 📂 Featured Project
+
+### 🚀 Playwright API Automation Framework
+
+Enterprise-grade API Automation Framework built using Playwright and TypeScript.
+
+**Key Features**
+
+- API Automation
+- Reusable Framework Design
+- Environment Configuration
+- Test Data Management
+- GitHub Actions Integration
+- HTML Reporting
+
+Repository:
+
+👉 https://github.com/RahulPerkiwar/Playwright-API-Framework
+
+---
+
+## 📈 Currently Working On
+
+- Enhancing Playwright API Automation Framework
+- Building reusable automation utilities
+- Exploring modern AI-assisted developer workflows
+
+---
+
+## 📫 Connect With Me
+
+📧 Email
+
+rahul.perkiwar20@gmail.com
+
+💼 LinkedIn
+
+https://www.linkedin.com/in/rahulperkiwar/
+
+💻 GitHub
+
+https://github.com/RahulPerkiwar
+
+---
+
+## 💡 Quote
+
+> "Quality is never an accident; it is always the result of intelligent effort."
+
+⭐ Thanks for visiting my GitHub Profile!
